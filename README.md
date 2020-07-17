@@ -1,4 +1,5 @@
-### Hi there 👋
+### Glad you came to see me, welcome!!👋
+### I’m currently learning everything i can about tech. <3
 
 <!--
 **Mathz78/Mathz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
