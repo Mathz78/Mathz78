@@ -1,5 +1,5 @@
 ### Glad you came to see me, welcome!!👋
-### I'm currently working hard to learning everything i can about tech. 💖
+### I'm currently working hard to learning everything i can about tech. ♡
 
 <!--
 **Mathz78/Mathz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
