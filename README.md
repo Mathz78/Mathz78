@@ -9,11 +9,6 @@
 * **University**: Alpha Faculdade
 * **Stack**: Currently im studying JavaScript
 
-
-
-
-
-
 <!--
 **Mathz78/Mathz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
