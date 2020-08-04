@@ -7,7 +7,7 @@
 * **Age**: 18 years old
 * **Living**: Recife, Pernambuco, Brazil
 * **University**: Systems Analysis and Development in Alpha Faculdade
-* **Stack**: Currently im studying JavaScript
+* **Stack**: Currently I am studying JavaScript
 * **Work**: Intern in Alpha Faculdade 
 
 <!--
