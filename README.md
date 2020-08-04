@@ -6,8 +6,9 @@
 * **Name**: Matheus Rocha
 * **Age**: 18 years old
 * **Living**: Recife, Pernambuco, Brazil
-* **University**: Alpha Faculdade
+* **University**: Systems Analysis and Development in Alpha Faculdade
 * **Stack**: Currently im studying JavaScript
+* **Work**: Intern in Alpha Faculdade 
 
 <!--
 **Mathz78/Mathz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
