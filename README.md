@@ -1,4 +1,4 @@
-## Glad you came to see me, welcome!!👋
+## Glad you came to see me, welcome!! 👋
 
  #### I'm currently working hard to learning everything i can about tech. ♡
 
