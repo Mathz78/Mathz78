@@ -8,7 +8,7 @@
 * **Living**: Recife, Pernambuco, Brazil
 * **University**: Systems Analysis and Development in Alpha Faculdade
 * **Stack**: Currently I am studying JavaScript
-* **Work**: Intern in Alpha Faculdade 
+* **Work**: Intern in Alpha Faculdade using PHP 
 
 <!--
 **Mathz78/Mathz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
