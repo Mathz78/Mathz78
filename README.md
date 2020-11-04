@@ -7,7 +7,7 @@
 * **Age**: 18 years old
 * **Living**: Recife, Pernambuco, Brazil
 * **University**: Systems Analysis and Development in Alpha Faculdade
-* **Stack**: Currently I am studying JavaScript and PHP with Laravel 7.x +
+* **Stack**: Currently I am studying JavaScript and PHP with Laravel
 * **Work**: Intern in Alpha Faculdade using PHP with Laravel and MySQL
 
 <!--
