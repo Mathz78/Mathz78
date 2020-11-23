@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mathz78&show_icons=true&theme=white" alt="estatísticas"/>
 
-<img style="height: 295px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathz78&layout=compact" alt="Línguas mais usadas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathz78&layout=compact" alt="Línguas mais usadas"/>
 </p>
 
 <!--
