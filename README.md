@@ -12,9 +12,9 @@
 
 ## Some of my stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mathz78&show_icons=true&theme=white" alt="Status João Paulo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mathz78&show_icons=true&theme=white" alt="estatísticas"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathz78&layout=compact" alt="Top Langs"/>
+<img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathz78&layout=compact" alt="Línguas mais usadas"/>
 </p>
 
 <!--
