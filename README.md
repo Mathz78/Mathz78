@@ -10,6 +10,13 @@
 * **Stack**: Currently I am studying JavaScript and PHP with Laravel
 * **Work**: Intern in Alpha Faculdade using PHP with Laravel and MySQL
 
+## Some of my stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mathz78&show_icons=true&theme=white" alt="Status João Paulo"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathz78&layout=compact" alt="Top Langs"/>
+</p>
+
 <!--
 **Mathz78/Mathz78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
