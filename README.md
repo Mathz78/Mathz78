@@ -7,8 +7,8 @@
 * **Age**: 19 years old
 * **Living**: Recife, Pernambuco, Brazil
 * **University**: Systems Analysis and Development in Alpha Faculdade
-* **Stack**: Currently I am studying JavaScript and PHP with Laravel
-* **Work**: Intern in Alpha Faculdade using PHP with Laravel and MySQL
+* **Stack**: Currently I am studying JavaScript/Node.JS, PHP/Laravel and Working with C#
+* **Work**: Jr. Software Engineer at Take Blip 💙
 
 ## Some of my stats:
 <p align="center">
