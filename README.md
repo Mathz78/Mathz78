@@ -8,7 +8,7 @@
 * **Living**: Recife, Pernambuco, Brazil
 * **University**: Systems Analysis and Development in Alpha Faculdade
 * **Stack**: Currently I am studying JavaScript/Node.JS, PHP/Laravel and Working with C#
-* **Work**: Jr. Software Engineer at Take Blip 💙
+* **Work**: Software Engineer at Take Blip 💙
 
 ## Some of my stats:
 <p align="center">
