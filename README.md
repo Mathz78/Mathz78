@@ -1,6 +1,6 @@
-## Glad you came to see me, welcome!! 👋
+<p style="text-align: center;">## Glad you came to see me, welcome!! 👋</p>
 
- #### I'm currently working hard to learn everything i can about tech. ♡
+#### I'm currently working hard to learn everything I can about tech. ♡
 
 ## Let me tell you a few things about me:
 * **Name**: Matheus Rocha
