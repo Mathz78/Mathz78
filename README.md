@@ -4,7 +4,7 @@
 
 ## Let me tell you a few things about me:
 * **Name**: Matheus Rocha
-* **Age**: 21 years old
+* **Age**: 22 years old
 * **Living**: Recife, Pernambuco, Brazil
 * **University**: Systems Analysis and Development in Alpha Faculdade
 * **Stack**: Currently I am studying JavaScript/Node.JS, PHP/Laravel and Working with C#
